@@ -56,12 +56,12 @@ en: &DEFAULT_EN
         alt:
       - title: "IBED"
 #        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "IVI"
+      - title: "IIS"
  #       year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
