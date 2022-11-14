@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Outreach"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fab fa-markdown
+        icon: fa-solid fa-bullhorn
 
   portfolio:
     title: "Projects"
