@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Research"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-magnifying-glass #find more at https://fontawesome.com/icons
+        icon: fas fa-search #find more at https://fontawesome.com/icons
       - title: "Education"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-user-graduate
