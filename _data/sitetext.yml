@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Amsterdam Center for Origins of Life
-#   text: It's Nice To Meet You
+#   title: ""
+    text: Amsterdam Center for Origins of Life
     button: Contact Us
     buttonlink: "#contact"
 
-  services:
-    title: "Services"
+  whatwedo:
+    title: "What We Do"
     text: "Lorem ipsum"
-    section: services
+    section: whatwedo
     list:
-      - title: "E-Commerce"
+      - title: "Research"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Education"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Outreach"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fab fa-markdown
 
   portfolio:
