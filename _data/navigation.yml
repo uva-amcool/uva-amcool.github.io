@@ -36,7 +36,7 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
+# es: &DEFAULT_ES
   nav:
     - title: "Servicios"
       section: servicios
@@ -52,7 +52,7 @@ es: &DEFAULT_ES
       section: contacto
     - title: "Fuente de la plantilla"
       url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
+# es-ES:
   <<: *DEFAULT_ES
-es-CO:
+# es-CO:
   <<: *DEFAULT_ES
