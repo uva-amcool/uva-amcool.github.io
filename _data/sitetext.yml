@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Participants"
+    title: "Institutes"
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     section: timeline
     # left is the default
@@ -93,13 +93,13 @@ en: &DEFAULT_EN
 #        logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "PEOPLE"
+    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    subtext: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Annemieke Petrignani"
+        role: "Background"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -108,9 +108,9 @@ en: &DEFAULT_EN
 #           icon: fab fa-facebook-f
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Alessandra Candian"
+        role: "Background"
+        image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
 #           icon: fab fa-twitter
@@ -118,8 +118,8 @@ en: &DEFAULT_EN
 #           icon: fab fa-facebook-f
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Esther Quaedackers"
+        role: "Background"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
