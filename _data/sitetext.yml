@@ -33,13 +33,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  # text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Institutes"
-    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  #  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     section: timeline
     # left is the default
     #start_align: "left"
