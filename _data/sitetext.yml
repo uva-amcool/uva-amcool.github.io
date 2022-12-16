@@ -46,25 +46,23 @@ en: &DEFAULT_EN
     events:
       - title: "API"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/API.jpg
         alt:
       - title: "HIMS"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/HIMS.jpg
         alt:
-        title: "SILS"
+      - title: "SILS"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/SILS.jpg
         alt:
-        # you can enforce the alignment
-        align: right
       - title: "IBED"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/IBED.jpg
         alt: image alt text
       - title: "IIS"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/IIS.jpg
         alt:
         # you can enforce the alignment
         align: right
@@ -101,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Annemieke Petrignani"
-        role: "Background"
+        role: "Co-chair"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -111,7 +109,7 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Jean-Michel Désert"
-        role: "Background"
+        role: "Co-chair"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -121,7 +119,17 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Alessandra Candian"
-        role: "Background"
+        role: "Steering committee member"
+        image: assets/img/team/500x500.jpg
+#       social:
+#         - url: https://twitter.com
+#           icon: fab fa-twitter
+#         - url: https://facebook.com
+#           icon: fab fa-facebook-f
+#         - url: https://linkedin.com
+#           icon: fab fa-linkedin-in
+      - name: "Astrid Groot"
+        role: "Steering committee member"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -131,7 +139,17 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Esther Quaedackers"
-        role: "Background"
+        role: "Steering committee member"
+        image: assets/img/team/500x500.jpg
+#       social:
+#         - url: https://twitter.com
+#           icon: fab fa-twitter
+#         - url: https://facebook.com
+#           icon: fab fa-facebook-f
+#         - url: https://linkedin.com
+#           icon: fab fa-linkedin-in
+      - name: "Carsten Dominik"
+        role: "Principal advisor"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
