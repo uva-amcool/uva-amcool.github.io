@@ -7,7 +7,8 @@ caption:
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 Dr. Baeyens is modelling the neutral and ionic species in the upper atmospheres of terrestrial planets, based on the chemistry of the troposphere. As such he aims to determine if any of these species may serve as a biomarker for extraterrestrial life.
+
 {:.list-inline}
-- Project leader: [dr. Robin Baeyens](https://www.linkedin.com/in/robin-baeyens/)
-- Institute: Anton Pannekoek Institute for Astronomy (API)
-- Project team: Jean-Michel Desért (API), Annemieke Petrignani (HIMS)
+* Project leader: [Robin Baeyens](https://www.linkedin.com/in/robin-baeyens/)
+* Institute: Anton Pannekoek Institute for Astronomy (API)
+* Project team: Jean-Michel Desért (API), Annemieke Petrignani (HIMS)
