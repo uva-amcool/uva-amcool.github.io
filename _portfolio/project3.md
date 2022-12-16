@@ -1,15 +1,13 @@
 ---
-title: Project 3
-subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: AMCUP: Biomarkers in Planetary and ExoplanetaryUpper-Atmospheres
 image: assets/img/portfolio/03-full.jpg
 
 caption:
-  title: Project 3
-  subtitle: Subtitle
+  title: AMCUP: Biomarkers in Planetary and ExoplanetaryUpper-Atmospheres
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry uses links for the image sources. Projects in the portfolio can also use local images. Both work just fine!
-
+Dr. Baeyens is modelling the neutral and ionic species in the upper atmospheres of terrestrial planets, based on the chemistry of the troposphere. As such he aims to determine if any of these species may serve as a biomarker for extraterrestrial life.
 {:.list-inline}
-- Date:
-- Project leader:
+- Project leader: [dr. Robin Baeyens](https://www.linkedin.com/in/robin-baeyens/)
+- Institute: Anton Pannekoek Institute for Astronomy (API)
+- Project team: Jean-Michel Desért (API), Annemieke Petrignani (HIMS)

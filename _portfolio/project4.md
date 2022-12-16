@@ -11,5 +11,6 @@ caption:
 Use this area to describe your project. **Markdown** supported. This entry uses links for the image sources. Projects in the portfolio can also use local images. Both work just fine!
 
 {:.list-inline}
-- Date:
 - Project leader:
+- Institute: 
+- Project team:
