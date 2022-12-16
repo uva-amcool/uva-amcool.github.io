@@ -1,11 +1,11 @@
 ---
 title: Biomarker Networks of (Un)UsualLife
-subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 image: assets/img/portfolio/01-full.jpg
 
 caption:
   title: Biomarker Networks of (Un)UsualLife
-  subtitle: Subtitle
+#subtitle: Subtitle
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Amides are one of the most important structural motifs in nature. For instance, the amide linkage is the chemical connection of peptides and proteins. Moreover, its synthesis has widespread importance for the synthesis of biologically active compounds, modern pharmaceuticals, and widely used polymers. On the other hand, the enzyme-free formation of amide bonds is one of the major challenges of theories of the origin of life. My research interest focuses on the synthesis of amides by reactivating species in microstructure aqueous solutions, namely micelles, without the presence of any activating agents. 
