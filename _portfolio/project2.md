@@ -14,6 +14,6 @@ In addition, the colors available for photosynthesis depend strongly on absorpti
 
 
 {:.list-inline}
-- Project leader: [dr. Monika Soja-Wozniak](https://soja-wozniak.com/)
-- Institute: Institute for Biodiversity and Ecosystem Dynamics (IBED)
-- Project team: Jef Huisman (IBED), Carsten Dominik (API), Sander Woutersen (HIMS) and Hans van der Woerd (VU)
+* Project leader. [Monika Soja-Wozniak](https://soja-wozniak.com/)
+* Institute. Institute for Biodiversity and Ecosystem Dynamics (IBED)
+* Project team. Jef Huisman (IBED), Carsten Dominik (API), Sander Woutersen (HIMS) and Hans van der Woerd (VU)
