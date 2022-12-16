@@ -1,15 +1,16 @@
 ---
-title: Project 2
+title: CPE: Colors for Photosynthesis on Earth and Exoplanets
 subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 image: assets/img/portfolio/02-full.jpg
 
 caption:
-  title: Project 2
+  title: CPE: Colors for Photosynthesis on Earth and Exoplanets
   subtitle: Subtitle
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry uses links for the image sources. Projects in the portfolio can also use local images. Both work just fine!
+Dr Soja-Wozniak and the UvA team will be studying which colors are available for photosynthesis on Earth under sea ice and on exoplanets. The colors available for photosynthesis depend on the incident irradiance spectra emitted by star(s), which are known to vary with their surface temperature (e.g., from hot blue giants to cool red dwarfs). In addition, the colors available for photosynthesis depend strongly on absorption spectra of the atmospheres and the oceans of the planets harboring these organisms.
 
 {:.list-inline}
-- Date:
-- Project leader:
+- Project leader: [dr. Monika Soja-Wozniak](https://soja-wozniak.com/)
+- Institute: Institute for Biodiversity and Ecosystem Dynamics (IBED)
+- Project team: Jef Huisman (IBED), Carsten Dominik (API), Sander Woutersen (HIMS) and Hans van der Woerd (VU)
