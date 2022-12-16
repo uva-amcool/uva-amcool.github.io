@@ -11,5 +11,7 @@ caption:
   
 
 Project leader. [Paola Riente Paiva](https://www.uva.nl/en/profile/r/i/p.rientepaiva/p.riente-paiva.html)
+
 Institute. Van 't Hoff Institute for Molecular Sciences (HIMS)
+
 Project team. Annemieke Petrignani & Tati Fernandez 
