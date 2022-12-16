@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Annemieke Petrignani"
-        role: "Background"
+        role: "Co-chair"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Jean-Michel Désert"
-        role: "Background"
+        role: "Co-chair"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -119,7 +119,17 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Alessandra Candian"
-        role: "Background"
+        role: "Steering committee member"
+        image: assets/img/team/500x500.jpg
+#       social:
+#         - url: https://twitter.com
+#           icon: fab fa-twitter
+#         - url: https://facebook.com
+#           icon: fab fa-facebook-f
+#         - url: https://linkedin.com
+#           icon: fab fa-linkedin-in
+      - name: "Astrid Groot"
+        role: "Steering committee member"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -129,7 +139,17 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Esther Quaedackers"
-        role: "Background"
+        role: "Steering committee member"
+        image: assets/img/team/500x500.jpg
+#       social:
+#         - url: https://twitter.com
+#           icon: fab fa-twitter
+#         - url: https://facebook.com
+#           icon: fab fa-facebook-f
+#         - url: https://linkedin.com
+#           icon: fab fa-linkedin-in
+      - name: "Carsten Dominik"
+        role: "Principal advisor"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
