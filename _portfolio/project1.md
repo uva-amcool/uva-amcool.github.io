@@ -11,6 +11,6 @@ On the other hand, the enzyme-free formation of amide bonds is one of the major 
 My research interest focuses on the synthesis of amides by reactivating species in microstructure aqueous solutions, namely micelles, without the presence of any activating agents. 
 
 {:.list-inline}
-- Project leader: [dr. Paola Riente Paiva](https://www.uva.nl/en/profile/r/i/p.rientepaiva/p.riente-paiva.html)
+- Project leader: [Paola Riente Paiva](https://www.uva.nl/en/profile/r/i/p.rientepaiva/p.riente-paiva.html)
 - Institute: van 't Hoff Institute for Molecular Sciences (HIMS)
-- Project team: Annemieke Petrignani & Tati Fernandez (HIMS), Meike Wortel & Filipe Branco dos Santos (SILS)
+- Project team: Annemieke Petrignani & Tati Fernandez (HIMS)
