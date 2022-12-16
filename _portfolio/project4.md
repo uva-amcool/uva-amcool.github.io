@@ -8,11 +8,11 @@ caption:
   #subtitle: Subtitle
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Many processes that occur in nature feature complex reaction networks, such as in natural  oils and resins, and metabolic reactions.
+<p style='text-align: justify;'> Many processes that occur in nature feature complex reaction networks, such as in natural  oils and resins, and metabolic reactions.
 The challenge of studying such system originates in the heterogeneity of the reaction pathways. 
-In our research, we tackle this problem with computational modeling using tools from network science. The topics of our current research include evolution of metabolism and origin of life.
+In our research, we tackle this problem with computational modeling using tools from network science. The topics of our current research include evolution of metabolism and origin of life.</p>
 
-{:.list-inline}
-* Project leader: Yullia Orlova
-* Institute: Swammerdam Institute for Life Sciences (SILS)
-* Project team: Meike Wortel & Filipe Branco dos Santos 
+<img src="/assets/img/portfolio/Yullia_Orlova.jpg" alt="Yullia Orlova">
+**Project leader:** Yullia Orlova
+
+**Project team:** Meike Wortel & Filipe Branco dos Santos (SILS)
