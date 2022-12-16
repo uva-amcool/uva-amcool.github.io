@@ -45,23 +45,22 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "API"
-        desc: "The Anton Pannekoek Institute [API](https://api.uva.nl/) furthers research, teaching, and public understanding of astronomy."
+        desc: "[The Anton Pannekoek Institute (API)](https://api.uva.nl/) furthers research, teaching, and public understanding of astronomy."
         image: assets/img/timeline/API.jpg
         alt:
       - title: "HIMS"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "The mission of the [Van 't Hoff Institute for Molecular Sciences (HIMS)](https://hims.uva.nl/) is to push the boundaries of chemistry by performing internationally recognized scientific research that is curiosity driven as well as application driven"
         image: assets/img/timeline/HIMS.jpg
         alt:
       - title: "SILS"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "The [Swammerdam Institute for Life Sciences (SILS)](https://sils.uva.nl/) research objective is to understand the functioning of living organisms, from the most basic aspects up to complex physiological functions."
         image: assets/img/timeline/SILS.jpg
         alt:
       - title: "IBED"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/IBED.jpg
+        desc: "The [Institute for Biodiversity and Ecosystem Dynamics (IBED)](https://ibed.uva.nl/) aims to unravel how ecosystems function in all their complexity, and how they change due to natural processes and human activities"
         alt: image alt text
       - title: "IIS"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "The [Institute for Interdisciplinary Studies (IIS)](https://iis.uva.nl/en) is the expertise centre of the University of Amsterdam in the field of interdisciplinary learning and teaching."
         image: assets/img/timeline/IIS.jpg
         alt:
         # you can enforce the alignment
