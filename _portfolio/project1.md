@@ -14,4 +14,4 @@ caption:
 
 Project leader. [Paola Riente Paiva](https://www.uva.nl/en/profile/r/i/p.rientepaiva/p.riente-paiva.html)
 
-Project team. Annemieke Petrignani & Tati Fernandez (HIMS)
+Project team. Annemieke Petrignani and Tati Fernandez (HIMS)
