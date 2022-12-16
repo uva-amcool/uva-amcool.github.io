@@ -13,6 +13,7 @@ The challenge of studying such system originates in the heterogeneity of the re
 In our research, we tackle this problem with computational modeling using tools from network science. The topics of our current research include evolution of metabolism and origin of life.</p>
 
 <img src="/assets/img/portfolio/Yullia_Orlova.jpg" alt="Yullia Orlova">
+
 **Project leader:** Yullia Orlova
 
 **Project team:** Meike Wortel & Filipe Branco dos Santos (SILS)
