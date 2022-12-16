@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "API"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "The Anton Pannekoek Institute [API](https://api.uva.nl/) furthers research, teaching, and public understanding of astronomy."
         image: assets/img/timeline/API.jpg
         alt:
       - title: "HIMS"
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Annemieke Petrignani"
-        role: "Co-chair"
+        role: "Co-chair, HIMS"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Jean-Michel Désert"
-        role: "Co-chair"
+        role: "Co-chair, API"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -119,8 +119,8 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Alessandra Candian"
-        role: "Steering committee member"
-        image: assets/img/team/500x500.jpg
+        role: "Steering committee member, API"
+        image: assets/img/team/Alessandra_Candian.jpg
 #       social:
 #         - url: https://twitter.com
 #           icon: fab fa-twitter
@@ -129,7 +129,7 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Astrid Groot"
-        role: "Steering committee member"
+        role: "Steering committee member, IBED"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -139,7 +139,7 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Esther Quaedackers"
-        role: "Steering committee member"
+        role: "Steering committee member, IIS"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
@@ -149,7 +149,7 @@ en: &DEFAULT_EN
 #         - url: https://linkedin.com
 #           icon: fab fa-linkedin-in
       - name: "Carsten Dominik"
-        role: "Principal advisor"
+        role: "Principal advisor, API"
         image: assets/img/team/500x500.jpg
 #       social:
 #         - url: https://twitter.com
