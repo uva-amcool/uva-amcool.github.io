@@ -160,19 +160,8 @@ en: &DEFAULT_EN
 #           icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-#   phone: "Phone Number"
-#   phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    button: Contact Us
+    buttonlink: "#contact"
 
   footer:
     legal: "Privacy Policy"
