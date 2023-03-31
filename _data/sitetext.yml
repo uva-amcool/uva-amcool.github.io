@@ -160,8 +160,9 @@ en: &DEFAULT_EN
 #           icon: fab fa-linkedin-in
 
   contact:
-    button: Contact Us
-    buttonlink: "#contact"
+    title: "Contact Us"
+    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+    section: contact
 
   footer:
     legal: "Privacy Policy"
