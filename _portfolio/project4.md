@@ -1,10 +1,10 @@
 ---
-title: Research. Biomarkers Network for Unusual life II
+title: Research - Biomarkers Network for Unusual life II
 #subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 image: assets/img/portfolio/01-full.jpg
 
 caption:
-  title: Research. Biomarkers Network for Unusual life II
+  title: Research - Biomarkers Network for Unusual life II
   #subtitle: Subtitle
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
