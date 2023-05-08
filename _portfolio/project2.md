@@ -1,10 +1,10 @@
 ---
-title: Colors for photosynthesis on Earth and Exoplanets
+title: Research - Colors for photosynthesis on Earth and Exoplanets
 #subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 image: assets/img/portfolio/03-full.jpg
 
 caption:
-  title: Colors for photosynthesis on Earth and Exoplanets
+  title: Research - Colors for photosynthesis on Earth and Exoplanets
   #subtitle: Subtitle
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
