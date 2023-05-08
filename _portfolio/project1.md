@@ -5,7 +5,7 @@ image: assets/img/portfolio/01-full.jpg
 
 caption:
   title: Biomarker Networks of Unusual Life I
-  subtitle: research
+  subtitle: Research
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 
