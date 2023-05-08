@@ -17,12 +17,12 @@ en: &DEFAULT_EN
     buttonlink: "#contact"
 
   services:
-    title: "What We Do"
-    text: "The Amsterdam Centre for Origins of Life (AMCOOL) is a virtual platform for interdisciplinary research, educational and outreach on the origins and evolution of life on Earth and in the Universe. AMCOOL brings together scientists, teachers and educators of the University of Amsterdam (UvA) over a variety of disciplines and stimulates research and educational projects related to the origin of life.  AMCOOL is a local chapter of the national [Origin Center](https://www.originscenter.nl/)"
+ #   title: "What We Do"
+    text: "The Amsterdam Centre for Origins of Life (AMCOOL) offers a platform for interdisciplinary research, educational and outreach on the origins and evolution of life on Earth and in the Universe. AMCOOL brings together scientists, teachers and educators of the University of Amsterdam (UvA) and the Vrije Universiteit (VU) over a variety of disciplines and stimulates research and educational projects related to the origin of life.  AMCOOL is a local chapter of the national [Origin Center](https://www.originscenter.nl/)"
     section: services
     list:
       - title: "Research"
-        desc: "At UvA, the disciplines astronomy, chemistry, and biology have joint forces and set up a collaborative research program on the origins and fundamental aspects of life, with a strong focus on possibilities for generic life or life elsewhere in the universe. See below for the ongoing projects."
+        desc: "Astronomy, chemistry, and biology postdocs and students are working in a collaborative research program on the origins and fundamental aspects of life, with a strong focus on possibilities for generic life or life elsewhere in the universe. See below for the ongoing projects."
         icon: fas fa-search #find more at https://fontawesome.com/icons
       - title: "Education"
         desc: "We are involved in a series of education initiative at UvA, for example the honors course [How to Design an Alien](https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course/course/99713), [Big History](https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course) and the minor Interspecial."
