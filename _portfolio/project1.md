@@ -1,9 +1,11 @@
 ---
-title: Research - Biomarker Networks of Unusual Life I
+title: Biomarker Networks of Unusual Life I
+subtitle: Research
 image: assets/img/portfolio/01-full.jpg
 
 caption:
-  title: Research - Biomarker Networks of Unusual Life I
+  title: Biomarker Networks of Unusual Life I
+  subtitle: research
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 
