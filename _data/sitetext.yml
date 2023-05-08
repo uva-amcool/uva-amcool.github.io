@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Annemieke Petrignani"
         role: "Co-chair, HIMS"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Annemieke_Petrignani.jpg
 #       social:
 #         - url: https://twitter.com
 #           icon: fab fa-twitter
@@ -140,7 +140,7 @@ en: &DEFAULT_EN
 #           icon: fab fa-linkedin-in
       - name: "Esther Quaedackers"
         role: "Steering committee member, IIS"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Esther_Quaedeckers.jpg
 #       social:
 #         - url: https://twitter.com
 #           icon: fab fa-twitter
