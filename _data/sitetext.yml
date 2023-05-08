@@ -18,11 +18,11 @@ en: &DEFAULT_EN
 
   services:
     title: "What We Do"
-    text: "Amsterdam Centre for Origins of Life (AMCOOL) is a platform for interdisciplinary research, educational and outreach in Amsterdam on the origins and evolution of life on Earth and generically. It brings scientists, teachers, and resources in Amsterdam together in varying compositions of consortia ranging over a wide variety of disciplines. AMCOOL is dedicated to both forefront origins research and interdisciplinary education connected to Amsterdam. We stimulate research and education projects, bridging existing and future efforts."
+    text: "The Amsterdam Centre for Origins of Life (AMCOOL) is a virtual platform for interdisciplinary research, educational and outreach on the origins and evolution of life on Earth and in the Universe. AMCOOL brings together scientists, teachers and educators of the University of Amsterdam (UvA) over a wide variety of disciplines and stimulate research and educational projects relate to the origin of life.  AMCOOL is a local chapter of the national [Origin Center](https://www.originscenter.nl/)"
     section: services
     list:
       - title: "Research"
-        desc: "At the University of Amsterdam (UvA), the disciplines astronomy, chemistry, and biology have joint forces and set up a collaborative research and training program on the origins and fundamental aspects of life, with a strong focus on possibilities for generic life or life elsewhere in the universe. Terrestrial life has a common biochemical origin. Life elsewhere might be very much alike but does not need to be. Though the required biochemical functionalities will need to be consistent with life, the biochemical components may differ, from monomeric to macromolecular building blocks, with consequences to the makeup of alternative life and their detectability. More information of the joint interdisciplinary projects can be found below."
+        desc: "At UvA, the disciplines astronomy, chemistry, and biology have joint forces and set up a collaborative research program on the origins and fundamental aspects of life, with a strong focus on possibilities for generic life or life elsewhere in the universe. See below for the ongoing projects."
         icon: fas fa-search #find more at https://fontawesome.com/icons
       - title: "Education"
         desc: "We are involved in a series of education initiative at UvA, for example the honors course [How to Design an Alien](https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course/course/99713), [Big History](https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course) and the minor Interspecial."
@@ -94,8 +94,8 @@ en: &DEFAULT_EN
 
   team:
     title: "PEOPLE"
-    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-    subtext: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+#   subtext: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
     section: team
     people:
       - name: "Annemieke Petrignani"
