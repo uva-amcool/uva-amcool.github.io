@@ -1,11 +1,11 @@
 ---
-title: Research - Biomarkers Network for Unusual life II
-#subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: Biomarkers Network for Unusual life II
+subtitle: Research
 image: assets/img/portfolio/01-full.jpg
 
 caption:
-  title: Research - Biomarkers Network for Unusual life II
-  #subtitle: Subtitle
+  title: Biomarkers Network for Unusual life II
+  subtitle: Research
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 <p style='text-align: justify;'> Many processes that occur in nature feature complex reaction networks, such as in natural  oils and resins, and metabolic reactions.
