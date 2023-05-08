@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "What We Do"
-    text: "The Amsterdam Centre for Origins of Life (AMCOOL) is a virtual platform for interdisciplinary research, educational and outreach on the origins and evolution of life on Earth and in the Universe. AMCOOL brings together scientists, teachers and educators of the University of Amsterdam (UvA) over a wide variety of disciplines and stimulate research and educational projects relate to the origin of life.  AMCOOL is a local chapter of the national [Origin Center](https://www.originscenter.nl/)"
+    text: "The Amsterdam Centre for Origins of Life (AMCOOL) is a virtual platform for interdisciplinary research, educational and outreach on the origins and evolution of life on Earth and in the Universe. AMCOOL brings together scientists, teachers and educators of the University of Amsterdam (UvA) over a variety of disciplines and stimulates research and educational projects related to the origin of life.  AMCOOL is a local chapter of the national [Origin Center](https://www.originscenter.nl/)"
     section: services
     list:
       - title: "Research"
