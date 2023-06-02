@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "Amsterdam Center for Origins of Life"
- #  text: "Amsterdam Center for Origins of Life"
+ #  title: "Amsterdam Center for Origins of Life"
+    text: "Amsterdam Center for Origins of Life"
  #  button: Contact Us
  #  buttonlink: "#contact"
 
